@@ -1,4 +1,4 @@
-discord-bot.ts
+# discord-bot.ts
 
 Simple discord bot in TypeScript(DiscordX, Discord.ts, Discord.js)
 
