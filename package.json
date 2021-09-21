@@ -1,0 +1,15 @@
+{
+  "name": "discord-bot.ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel-Developer-p",
+  "license": "ISC",
+  "dependencies": {
+    "discordx": "^5.9.4",
+    "make-bot.ts": "^2.1.1"
+  }
+}
